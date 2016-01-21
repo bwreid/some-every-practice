@@ -4,6 +4,8 @@ Let's practice using `every` and `some`!
 
 Complete the functions inside of the `every.js` and `some.js` files so that the associated tests pass. You should *only* need to use some and every.
 
+Tests can be run with `jasmine-node .`
+
 * * *
 
 ### .some()
